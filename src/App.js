@@ -33,6 +33,7 @@ export default function App() {
       >
         Fetch
       </div>
+      <p>Testing</p>
       <Suspense fallback={<div>Loading...</div>}>
         {loading ? ( // Show loading state
           <div>Loading...</div>
