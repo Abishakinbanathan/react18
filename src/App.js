@@ -41,7 +41,8 @@ export default function App() {
           <table cellPadding="5">
             <thead>
               <tr>
-                <th>test from test</th>
+
+  
                 <th>Name</th>
                 <th>Username</th>
                 <th>Email</th>
