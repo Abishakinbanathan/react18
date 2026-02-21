@@ -42,7 +42,7 @@ export default function App() {
             <thead>
               <tr>
                 <th>test</th>
-                <th>Name</th>
+                <th>xxxxxxxxxxxxx</th>
                 <th>Username</th>
                 <th>Email</th>
                 <th>Phone</th>
